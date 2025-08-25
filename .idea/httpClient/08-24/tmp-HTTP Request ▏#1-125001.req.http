@@ -1,0 +1,12 @@
+// Size: 191 B
+### HTTP Request ▏#1
+POST http://localhost:4000/patients HTTP/1.1
+Content-Length: 191
+
+{
+  "name": "John Doe With Billing Account",
+  "email": "test_billing_account@example.com",
+  "address": "123 main street22",
+  "dateOfBirth": "1995-09-09",
+  "registeredDate": "2024-11-28"
+}

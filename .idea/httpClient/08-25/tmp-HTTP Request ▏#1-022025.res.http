@@ -1,0 +1,15 @@
+// Status: 415, time: 9ms, size: 110 B
+### HTTP Request ▏#1
+POST http://localhost:4000/patients HTTP/1.1
+accept: application/json, application/yaml, application/*+json
+content-type: application/json
+date: Mon, 25 Aug 2025 08:50:24 GMT
+transfer-encoding: chunked
+
+{
+  "timestamp": "2025-08-25T08:50:24.880+00:00",
+  "status": 415,
+  "error": "Unsupported Media Type",
+  "path": "/patients"
+}
+>> C:\Users\Shubham_Mishra1\Documents\project\patient-management\.idea\httpClient\08-25\HTTP Request ▏#1\2025-08-25T142025.json
